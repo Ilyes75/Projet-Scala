@@ -1,0 +1,63 @@
+2023.12.15 15:40:26 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala' for client Visual Studio Code 1.82.2.
+2023.12.15 15:40:26 WARN  Build server is not auto-connectable.
+2023.12.15 15:40:26 WARN  no build tool detected in workspace 'C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.12.15 15:51:41 INFO  
+2023.12.15 15:51:41 INFO  Template applied in C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\.\scala_streaming
+2023.12.15 15:51:41 INFO  
+2023.12.15 15:51:41 INFO  time: ran 'giter8.Giter8' in 9.09s
+2023.12.15 15:56:25 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\Main.scala
+2023.12.15 15:57:22 INFO  no build target found for C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.15 15:57:24 INFO  time: code lens generation in 58s
+2023.12.15 15:57:24 INFO  time: code lens generation in 57s
+2023.12.15 15:58:42 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\Main.scala
+2023.12.15 15:59:11 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\MainApp.scala
+2023.12.15 15:59:30 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\build.sbt
+2023.12.15 16:01:19 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\build.sbt
+déc. 15, 2023 4:16:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 273
+2023.12.15 16:16:28 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\MainApp.scala
+2023.12.15 16:17:28 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\build.sbt
+2023.12.15 16:17:30 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\build.sbt
+2023.12.15 16:18:11 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\MainApp.scala
+2023.12.15 16:18:11 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\MainApp.scala
+2023.12.15 16:18:13 INFO  Shutting down server
+2023.12.15 16:18:13 INFO  shutting down Metals
+2023.12.15 16:18:13 INFO  Exiting server
+2023.12.15 16:18:56 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala' for client Visual Studio Code 1.85.1.
+2023.12.15 16:18:57 WARN  Build server is not auto-connectable.
+2023.12.15 16:18:57 WARN  no build target for: C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\MainApp.scala
+déc. 15, 2023 4:18:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.12.15 16:19:00 INFO  running 'C:\Users\20200766\Documents\jdk-19.0.2\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\ilyes\AppData\Local\Temp\metals14042990951936659531\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.12.15 16:19:00 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.7  (this may take some time)...
+2023.12.15 16:19:01 INFO  no build target found for C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\src\main\scala\MainApp.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.15 16:19:11 ERROR [info] [launcher] getting Scala 2.12.18 (for sbt)...
+2023.12.15 16:19:16 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 19.0.2)
+2023.12.15 16:19:18 INFO  [info] loading settings for project scala_streaming-build-build from metals.sbt ...
+2023.12.15 16:19:18 INFO  [info] loading project definition from C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\project\project
+2023.12.15 16:19:22 INFO  [info] loading settings for project scala_streaming-build from metals.sbt ...
+2023.12.15 16:19:22 INFO  [info] loading project definition from C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\scala_streaming\project
+2023.12.15 16:19:32 INFO  [success] Generated .bloop\scala_streaming-build.json
+2023.12.15 16:19:32 INFO  [success] Total time: 10 s, completed 15 déc. 2023, 16:19:32
+2023.12.15 16:19:33 INFO  [info] loading settings for project root from build.sbt ...
+2023.12.15 16:19:33 INFO  [info] set current project to scala_streaming (in build file:/C:/Users/ilyes/Documents/S7/Prog%20Fonctionnelle%20Scala/Projet%20Scala/scala_streaming/)
+2023.12.15 16:19:41 INFO  [success] Generated .bloop\root.json
+2023.12.15 16:19:41 INFO  [success] Generated .bloop\root-test.json
+2023.12.15 16:19:41 INFO  [success] Total time: 8 s, completed 15 déc. 2023, 16:19:41
+2023.12.15 16:19:41 INFO  time: ran 'sbt bloopInstall' in 41s
+2023.12.15 16:19:41 INFO  Attempting to connect to the build server...
+2023.12.15 16:19:41 INFO  Setting up current java home C:\Users\20200766\Documents\jdk-19.0.2\ in C:\Users\ilyes\.bloop\bloop.json
+2023.12.15 16:19:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ilyes\Documents\S7\Prog Fonctionnelle Scala\Projet Scala\.metals\bsp.trace.json or C:\Users\ilyes\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.15 16:19:58 INFO  time: Connected to build server in 16s
+2023.12.15 16:19:58 INFO  Connected to Build server: Bloop v1.5.13
+2023.12.15 16:19:58 INFO  time: Imported build in 0.13s
+2023.12.15 16:20:00 INFO  time: indexed workspace in 1.64s
+2023.12.15 16:20:00 INFO  compiling root (1 scala source)
+2023.12.15 16:20:05 INFO  compiling root-test (1 scala source)
+2023.12.15 16:20:05 INFO  time: compiled root in 4.84s
+2023.12.15 16:20:05 INFO  time: compiled root-test in 0.44s
+déc. 15, 2023 4:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2023.12.15 16:26:51 INFO  time: code lens generation in 1.37s
+déc. 15, 2023 4:27:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
