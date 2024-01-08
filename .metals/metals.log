@@ -444,3 +444,53 @@ AVERTISSEMENT: Unmatched cancel notification for request id 615
 2024.01.06 20:10:11 INFO  shutting down Metals
 2024.01.06 20:10:11 INFO  Shut down connection with build server.
 2024.01.06 20:10:11 INFO  Exiting server
+2024.01.07 02:06:47 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\msofi\project-ing\spotify_stream_scala' for client Visual Studio Code 1.85.1.
+2024.01.07 02:06:49 INFO  Attempting to connect to the build server...
+2024.01.07 02:06:49 INFO  skipping build import with status 'Installed'
+2024.01.07 02:06:49 INFO  Bloop uses C:\Users\msofi\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\msofi\.bloop\bloop.json
+2024.01.07 02:06:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\msofi\project-ing\spotify_stream_scala\.metals\bsp.trace.json or C:\Users\msofi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.01.07 02:06:49 INFO  time: Connected to build server in 0.7s
+2024.01.07 02:06:49 INFO  Connected to Build server: Bloop v1.5.13
+2024.01.07 02:06:50 INFO  time: Imported build in 0.21s
+2024.01.07 02:06:56 INFO  no build target found for C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\src\main\scala\MainApp.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.07 02:06:59 INFO  time: indexed workspace in 2.99s
+2024.01.07 02:07:02 INFO  compiling root-test (1 scala source)
+2024.01.07 02:07:02 INFO  time: compiled root-test in 0.14s
+2024.01.07 02:08:24 INFO  Shutting down server
+2024.01.07 02:08:24 INFO  shutting down Metals
+2024.01.07 02:08:24 INFO  Shut down connection with build server.
+2024.01.07 02:08:24 INFO  Exiting server
+2024.01.07 20:23:47 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\msofi\project-ing\spotify_stream_scala' for client Visual Studio Code 1.85.1.
+2024.01.07 20:23:49 INFO  Attempting to connect to the build server...
+2024.01.07 20:23:49 INFO  skipping build import with status 'Installed'
+2024.01.07 20:23:49 INFO  Bloop uses C:\Users\msofi\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\msofi\.bloop\bloop.json
+2024.01.07 20:23:58 INFO  no build target found for C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\src\main\scala\MainApp.scala. Using presentation compiler with project's scala-library version: 3.3.1
+janv. 07, 2024 8:23:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+janv. 07, 2024 8:23:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:230)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2024.01.07 20:24:04 WARN  no build target for: C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\build.sbt
+2024.01.07 20:24:04 INFO  skipping build import with status 'Installed'
+2024.01.07 20:24:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\msofi\project-ing\spotify_stream_scala\.metals\bsp.trace.json or C:\Users\msofi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.01.07 20:24:10 INFO  time: Connected to build server in 20s
+2024.01.07 20:24:10 INFO  Connected to Build server: Bloop v1.5.13
+2024.01.07 20:24:10 INFO  time: Imported build in 0.23s
+2024.01.07 20:24:13 INFO  no build target found for C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.07 20:24:14 WARN  no build target for: C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\build.sbt
+2024.01.07 20:24:14 INFO  skipping build import with status 'Installed'
+2024.01.07 20:24:14 INFO  time: indexed workspace in 3.68s
+2024.01.07 20:24:14 WARN  no build target for: C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\build.sbt
+2024.01.07 20:24:17 INFO  compiling root-test (1 scala source)
+2024.01.07 20:24:22 INFO  time: compiled root-test in 5.09s
+2024.01.07 20:24:22 WARN  no build target for: C:\Users\msofi\project-ing\spotify_stream_scala\scala_streaming\build.sbt
+2024.01.07 21:42:16 INFO  Shutting down server
+2024.01.07 21:42:16 INFO  shutting down Metals
+2024.01.07 21:42:16 INFO  Shut down connection with build server.
+2024.01.07 21:42:16 INFO  Exiting server
