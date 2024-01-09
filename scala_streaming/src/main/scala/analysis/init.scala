@@ -1,5 +1,0 @@
-package analysis
-
-class init {
-
-}
