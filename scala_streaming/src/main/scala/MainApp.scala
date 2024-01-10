@@ -1,10 +1,15 @@
-import zio._
+import zio.*
+import services.SpotifyDataService.createArtistStream
+import zio.Console.*
+
 
 object MainApp extends ZIOAppDefault {
-  def run =
+  
+ override val run: ZIO[Any & ZIOAppArgs & Scope, Throwable, Unit] =
     for {
-      _    <- Console.print("Please enter your name: ")
-      name <- Console.readLine
-      _    <- Console.printLine(s"Hello, $name!")
+      artistStream <- createArtistStream("Artists.csv")
+      // simple print of each artist
+      artist <- artistStream.foreach(artist => Console.printLine(artist.toString))
+
     } yield ()
 }
